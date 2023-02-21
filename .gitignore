@@ -17,25 +17,3 @@ build
 !/Simple Chatty Bot/task/
 /Simple Chatty Bot/task/*
 !/Simple Chatty Bot/task/src
-
-# Project exclude paths
-/Topics/Comments/The countdown/out/
-/Topics/Comments/The countdown/out/production/classes/
-/Topics/Integer types and operations/Arithmetic expression/out/
-/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
-/Topics/Integer types and operations/How many nuts each squirrel will get/out/
-/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
-/Topics/Integer types and operations/The sum of digits/out/
-/Topics/Integer types and operations/The sum of digits/out/production/classes/
-/Topics/Printing data/First, second, third/out/
-/Topics/Printing data/First, second, third/out/production/classes/
-/Topics/Printing data/From 0 to 4/out/
-/Topics/Printing data/From 0 to 4/out/production/classes/
-/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
-/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
-/Topics/Printing data/Theory/out/
-/Topics/Printing data/Theory/out/production/classes/
-/Topics/Scanning the input/Hiring a chef/out/
-/Topics/Scanning the input/Hiring a chef/out/production/classes/
-/Topics/Scanning the input/Print strings in the reverse order/out/
-/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
